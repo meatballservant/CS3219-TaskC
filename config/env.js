@@ -1,0 +1,1 @@
+module.exports = { TOKEN_KEY : 'FE58FJXO23986JCK239S', port : '4001', url : 'mongodb+srv://meatballservant:meatballservant@meatballcluster.gutzd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'};
